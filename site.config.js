@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "HNU_data_competition",
-    description: "welcome to morethan-log!",
+    description: "welcome to HNU Data Competition Pages!",
   },
 
   // CONFIG configration (required)
