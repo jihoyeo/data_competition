@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Hannam University",
     image: "/logo.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "Welcome!.",
+    bio: "Welcome!",
     email: "jihoyeo@hnu.kr",
     linkedin: "",
     github: "",
