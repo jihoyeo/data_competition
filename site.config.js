@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "HNU_data_competition",
-    description: "welcome to HNU Data Competition Pages!",
+    title: "HNU Data Competition",
+    description: "Welcome to HNU Data Competition Pages!",
   },
 
   // CONFIG configration (required)
