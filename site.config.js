@@ -1,30 +1,30 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Hannam University",
-    image: "/logo.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "Gachon University",
+    image: "/logo.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "Welcome!",
-    email: "jihoyeo@hnu.kr",
+    email: "jihoyeo@gachon.ac.kr",
     linkedin: "",
     github: "",
     instagram: "",
   },
   projects: [
     {
-      name: `hnu_data_competition`,
+      name: `convergence_competition`,
       href: "https://github.com/jihoyeo/data_competition/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "HNU Data Competition",
-    description: "Welcome to HNU Data Competition Pages!",
+    title: "Smartcity Convergence Competition Competition",
+    description: "Welcome to Convergence Competition Pages!",
   },
 
   // CONFIG configration (required)
-  link: "https://data-competition.vercel.app",
-  since: 2023, // If leave this empty, current year will be used.
+  link: "https://convergence-competition.vercel.app/",
+  since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
